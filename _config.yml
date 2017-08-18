@@ -1,0 +1,100 @@
+typography_spectrum: 0.6792160545616863
+color:
+  brandStrength: 0.27447320480056403
+  lightness: 0.5835829370366501
+  saturation: 0.546360348560709
+  rhythmicContrast: 0.4540468547451725
+  brandColors:
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
+layout_spectrum: 0.5670019683611608
+analytics:
+  google: UA-104924448-1
+author:
+  name: Kartiki Sharma
+  email: nikkiesharma@gmail.com
+  url: 'https://www.kartikisharma.com'
+name: Kartiki Sharma
+url: 'https://kartikisharma.com/'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Home
+    url: 'https://www.kartikisharma.com'
+    type: external
+  - name: Blog
+    url: 'https://blog.kartikisharma.com'
+    type: external
+  - name: About Me
+    id: 56350667-161f-4612-964d-30e6781b1806
+    type: content
+  - name: Contact
+    id: 86a7db18-6546-4437-bc99-71ce240d4eb6
+    type: content
+title: Kartiki Sharma
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1263f9d-295d-4145-a1fb-26249e54cbcf.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1263f9d-295d-4145-a1fb-26249e54cbcf.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be9c8f61-3ee2-406e-8594-a44dd01dd784.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/be9c8f61-3ee2-406e-8594-a44dd01dd784.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: A Memoir of Travels
+purpose:
+  - type: external
+    url: 'http://blog.kartikisharma.com'
+    label: Blog
+  - type: external
+    url: 'https://www.instagram.com/galeriek9/'
+    label: Instagram
+github: true
